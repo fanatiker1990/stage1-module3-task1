@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Generics {
+
     public List<List<String>> boxingMethod(String name) {
         List<String> firstList = new ArrayList<>();
         firstList.add(name);
