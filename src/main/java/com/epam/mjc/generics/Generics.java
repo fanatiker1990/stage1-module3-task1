@@ -16,7 +16,6 @@ public class Generics {
 
     //TODO: Refactor Method-2
     public <T> Object genericMethod(T data) {
-
         return data;
     }
 
